@@ -11,3 +11,7 @@ As state
 
 This is a simple project
 ## How To Contribute
+
+###Copyright
+
+Copyright notice
