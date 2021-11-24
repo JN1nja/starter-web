@@ -12,6 +12,8 @@ As state
 This is a simple project
 ## How To Contribute
 
+Please fork this repository and then isue Pull Request for review
+
 ###Copyright
 
 Copyright notice
