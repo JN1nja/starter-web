@@ -16,4 +16,4 @@ Please fork this repository and then isue Pull Request for review
 
 ###Copyright
 
-Copyright notice
+2014 Copyright notice
