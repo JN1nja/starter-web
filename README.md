@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project. Adding a line, then more change from myfeature
+This is a simple website project. Update a line
 ## Introduction
 
 This is example to show difference
